@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/adenekan41/Airbnb-clone-RN-"
+  }
+}
